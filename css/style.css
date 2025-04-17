@@ -52,3 +52,31 @@ p{
     width: 280px;
     background-color: rgb(90, 26, 26);
 }
+#bknbgr{
+    width: 500px;
+    height: 200px;
+    color: bisque;
+    background-color: brown;
+    background-image: url("../css/images/senja.jpeg");
+    background-size: cover;
+    border-radius: 15px;
+
+}
+#bknbgr h2 {
+    text-align: center;
+    padding-top: 80px;
+}
+#bknpattern{
+    width: 500px;
+    height: 200px;
+    color: brown;
+    background-color: brown;
+    background-image: url("../css/images/ptrn.jpg");
+    background-repeat: repeat;
+    border-radius: 15px;
+
+}
+#bknpattern h2 {
+    text-align: center;
+    padding-top: 80px;
+}
